@@ -276,7 +276,7 @@ hr {
   width: 23%;
   height: 100%;
   position: fixed;
-  background-color: #5f6d7e;
+  background-color: #272727;
   color: white;
   overflow-y: hidden;
 }
@@ -306,8 +306,8 @@ hr {
 
 h3.profile-title {
   margin-bottom: 5px;
-  color: white;
-  font-size: 18px;
+  color: #e67597;
+  font-size: 32px;
   font-family: 'robotobold';
 }
 
@@ -328,13 +328,13 @@ h3.profile-title {
   font-size: 24px;
 }
 .main-navigation li a:hover {
-  background: #5b6878;
+  background: #e67597;
 }
 .main-navigation li a.active {
   background: #495461;
 }
 .main-navigation li a.active:hover {
-  background: #495461;
+  background: #e67597;
 }
 
 .social-icons {
@@ -350,7 +350,7 @@ h3.profile-title {
   color: white;
 }
 .social-icons a:hover {
-  color: #282e35;
+  color: #e67597;
 }
 
 .responsive-header {
